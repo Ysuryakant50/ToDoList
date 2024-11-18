@@ -40,4 +40,4 @@ This is a simple To-Do application built using **React.js**, **Bootstrap**, **Gi
 1. Clone the repository:  
 
    ```bash  
-   git clone https://github.com/yourusername/todo-app.git  
+   https://github.com/Ysuryakant50/ToDoList.git 
